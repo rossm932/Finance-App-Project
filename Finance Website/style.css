@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+
+h1 {
+    text-align: center;
+    color: dodgerblue;
+    padding: 10px;
+
+}
+
+.currency-form {
+    position: absolute;
+    text-align: center;
+    bottom: 50px;
+    left: 250px;
+}
+
