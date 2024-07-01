@@ -1,5 +1,5 @@
 # Finance-App-Project
-A Repository for a finance app projects, using API's
+A Repository for a finance app project, using REST APIs
 
 # Technologies Used
 - HTML
